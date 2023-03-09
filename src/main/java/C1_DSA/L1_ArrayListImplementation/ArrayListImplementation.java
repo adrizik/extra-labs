@@ -20,6 +20,7 @@ public class ArrayListImplementation<T> {
      * use this: data = (T[]) new Object[2];
      */
     public ArrayListImplementation(){
+        System.out.println("hello");
     }
 
     /**
